@@ -1,0 +1,190 @@
+/*---------------Body---------------*/
+body{
+    background-color:#f4f7fb;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h2{
+   color: #18487b;
+   border-bottom:1px solid #d5e4f3 ;
+   padding-bottom: 8px;
+   padding-top: 0px;
+   width: 100%;
+   text-align: left;
+}
+
+#card{
+    color:#4e78b4;
+}
+
+.span{
+    color: #3268B3;
+}
+
+/*---------------Header---------------*/
+
+header{
+    background-color:#18487b ;
+    padding: 20px 20px 40px 20px;
+    border-radius: 16px;
+    color: #fefefe;
+    margin:16px auto;
+    width: 50%;
+    text-align: center;
+}
+
+header p{
+    color: #a1d5f6;
+    padding-bottom: 20px;   
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    margin: 4px;
+    background-color:#2a5685 ;
+    border-radius: 16px;
+    padding: 8px;
+    border: 1px solid #355f8b;
+}  
+
+/*---------------About Me---------------*/
+
+.about{
+    background-color: #ffffff;
+    padding: 20px 20px 40px 20px;
+    border-radius: 16px;
+    margin:16px auto;
+    width: 50%; 
+}
+
+.about-img{
+    display: inline-block;
+    padding: 16px;
+}
+.about-img img{
+    border-radius: 50%;
+    border:4px  solid #e7f3fe;
+   
+}
+
+.about-content{
+    vertical-align: top;
+    display: inline-block;
+    line-height: 2.5;
+    
+}
+
+.about button{
+    margin:0px 16px 16px 0px;
+    background-color: #0b65ad;
+    padding: 16px;
+    border-radius: 8px;
+    color: white;
+    border: none; 
+}
+
+/*---------------My Skills---------------*/
+
+.skill {
+     
+    background-color: #ffffff ;
+    border-radius: 16px;
+    padding: 20px 20px 40px 20px;
+    margin:16px auto;
+    width: 50%;
+}
+
+.skill .card {
+    background-color:   #f9fbff;
+    border-radius: 16px;
+    padding: 16px;
+    margin:16px;
+    border:1px solid #d5e4f3;
+    display: inline-block; 
+}
+ 
+.skill #card{
+    color: #3694d3;
+}
+
+/*---------------Experience---------------*/
+
+.experience {
+    background-color:  #ffffff;
+    border-radius: 16px;
+    padding: 16px;
+    margin:16px auto;
+    width: 50%;
+}
+
+.exp-img{  
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    padding: 16px;  
+    background-color: #ffffff;  
+    margin-top: 16px;
+    border-radius: 16px;
+    border:1px  solid #d5e4f3;
+}
+
+.exp-img img{
+    width: 50px;
+}
+
+.exp-content{
+    vertical-align: top;
+    display: inline-block;
+    line-height: 1.5;
+}
+
+.exp-card{
+    background-color:   #f9fbff;
+    border-radius: 16px;
+    padding: 16px;
+    margin:16px;
+    border-left: 4px solid #0b65ad;
+}
+
+/*---------------Contact Me---------------*/
+
+#title{
+    color: white;
+    border-bottom:1px solid #2c5786; 
+}
+
+footer{
+    background-color: #18487b ;
+    border-radius: 16px;
+    padding: 16px 16px 30px 16px;
+    margin:16px auto;
+    width: 50%;
+    color: white;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    margin: 16px 4px 8px 4px;
+    background-color:#2a5685 ;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #355f8b;
+}
+
+footer p{
+    padding-bottom: 8px;
+}
+
+/*---------------last p---------------*/
+
+#final{
+    background-color: #071a35 ;
+    border-radius: 16px;
+    padding: 30px 16px 30px 16px;
+    margin:16px auto;
+    width: 50%;
+    color: white;
+    text-align: center;
+}
